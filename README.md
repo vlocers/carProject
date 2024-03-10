@@ -1,1 +1,1 @@
-# carProject
+Araç ismini gerekli form yerine yazıp araç resmini url olarak ekledikten sonra bu aracı depolama alanına alıp ekliyor ve silme butonuna tıkladığınızda silme işlemini de depolama alanından kaldıran bir taslak
